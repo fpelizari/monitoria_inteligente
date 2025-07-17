@@ -1,0 +1,1 @@
+// Animações futuras podem ser adicionadas aqui
